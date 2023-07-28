@@ -1,0 +1,34 @@
+CREATE TABLE dev.public.diff_model (
+    id INTEGER,
+    galaxy_name VARCHAR(200),
+    star_label VARCHAR(5), 
+    prankster CHAR(1),
+    deaths INTEGER,
+    star_bits INTEGER,
+    coins INTEGER,
+    boss CHAR(1),
+    new_enemies VARCHAR(200),
+    comet_medal CHAR(1),
+    completion_timestamp VARCHAR(100),
+    major_sections INTEGER,
+    lives_found INTEGER,
+    difficulty VARCHAR(100),
+    avg_hits DECIMAL,
+    bossIndex DECIMAL,
+    prankIndex DECIMAL,
+    enemy_rank DECIMAL,
+    trap_rank DECIMAL,
+    power_rank DECIMAL
+
+);
+
+SELECT * FROM sys_load_error_detail;
+
+COPY diff_model FROM 's3://galaxy2-transformed-data/transformed-data'
+IAM_ROLE 'arn:aws:iam::169592149406:role/service-role/AmazonRedshift-CommandsAccessRole-20230724T144520'
+CSV 
+IGNOREHEADER 1
+
+SELECT * FROM dev.public.diff_model
+
+

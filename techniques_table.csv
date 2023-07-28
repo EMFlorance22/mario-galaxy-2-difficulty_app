@@ -1,0 +1,13 @@
+﻿ID,NAME,USES
+6000,Spin,"destroy crystals, spin enemies, use launch stars"
+6001,Jump and Spin,get extra height while jumping
+6002,Yoshi,"eat fruit and enemies, flutter jump, use Bulb Berry, use Blimp Fruit, use Dash Pepper, use the rotating flower to get distance"
+6003,Wall Jump,Jump and stick to walls to get to really high places
+6004,Ground Pound,"flatten enemies, hit buttons, flatten or move platforms"
+6005,Fluzzard,fly around the level 
+6006,Swim,swim underwater
+6007,Shell Swimming,"swim underwater faster, destroy snoodles or boos, throw the shell through water"
+6008,Skate,move faster on ice
+6009,Backflip,get to high platforms
+6010,Star Ball,roll around the level
+6011,Long Jump,"cross large chasms, move around the level faster"

@@ -1,0 +1,13 @@
+"power_id","name","description","p_rank"
+5000,"Invincibility","makes Mario completely invincible and he can run faster and do a cool jump",1
+5001,"Life Mushroom","gives Mario 6 Health",2
+5002,"Spin Drill","allows Mario to dig through dirt and get to different parts of a planet or hit enemies from below",7
+5003,"Fire","allows Mario to shoot fireballs at enemies and objects",3
+5004,"Cloud","allows Mario to jump and spin to form 3 clouds at a time to gain extra distance or height or stand on clouds",5
+5005,"Rock","roll into enemies or objects and around planets faster",4
+5006,"Dash Pepper","Yoshi eats it to run very fast and along vertical walls",9
+5007,"Bee","allows Mario to fly in the air for a short time and stand on clouds, flowers, and honeycombs",12
+5008,"Blimp Fruit","Yoshi eats it to float in the air for a short time",6
+5009,"Bulb Berry","Yoshi eats it to reveal hidden floor and platforms",10
+5010,"Spring","allows Mario to bounce very high",11
+5011,"Boo","allows Mario to walk through walls and float",8

@@ -1,0 +1,46 @@
+"trap_id","name","description","t_rank"
+4000,"Black Hole","giant black hole in the middle of planets that kills Mario instantly",8
+4001,"Spiky Plant","generic red spiked plant that pokes Mario",35
+4002,"Moving Electric Fence","long, green electric fence that moves around the level and electrocutes Mario",21
+4003,"Disappearing Platform","small, green checkered platform that slowly shrinks then disappears under Mario",10
+4004,"Bomp","large grey block with eyes that goes in and out of walls",41
+4005,"Fire Bar","large line of fireballs that swing around and around to burn Mario",19
+4006,"Lava","burns Mario",2
+4007,"Grinder","small, circular razorblade that eats away the floor and pokes Mario",14
+4008,"Boulder","brown boulder with a red jewel in the middle that rolls around and hits Mario",26
+4009,"Falling Platform","dark grey large platform that shakes then falls under Mario",12
+4010,"Pole","sticks out of the wall or in the way of Mario",37
+4011,"Bee Eater","green spiky ball plant that reaches out to poke Mario",29
+4012,"Flower Mimic","floating yellow and pink flower that turns red then eats Mario when Mario stands on it",31
+4013,"Mine","floating brown mine with a face that explodes Mario",32
+4014,"Bonzai Bill Blaster","giant cannon that blasts Bonzai Bills",28
+4015,"Lava Bubble","ball of lava with eyes that go in and out of the lava to burn Mario",30
+4016,"Ring of Fire","rotating circle of fire balls",19
+4017,"Electric Fence","long, green electric fence that electrocutes Mario",22
+4018,"Snake Blocks","continuously moving blocks in a snake formation that appear and disappear quickly",40
+4019,"Squishing Platform","platform that goes into the floor or wall to crush Mario",4
+4020,"Lava Rocket","moving lava in a rocket formation going in and out of the lava",20
+4021,"Disappearing Floor","floor that appears and disappears in regular intervals",11
+4022,"Beep Block","green and yellow blocks that appear and disappear to the beat",17
+4023,"Spike Ball","floating, grey spiky ball that explodes Mario",34
+4024,"Giant Disappearing Platform","Big version of the normal disappearing platform",9
+4025,"Spikes","line or floor of spikes that poke Mario",18
+4026,"Water Shooter","Blue cannon that shoots balls of water",43
+4027,"Electric Ball","ball of electricity that can electrocute Mario",33
+4028,"Sinking Platform","different colored platforms that sink slowly into the lava when Mario is standing on them",13
+4029,"Meteor","huge brown rock falling at regular intervals to hurt Mario",27
+4030,"Poison Swamp","purple goop that kills Mario",1
+4032,"Quick Sand","sand that kills Mario instantly",1
+4033,"Cactus","giant spiky cactus that destroys the platform Mario is moving on",16
+4034,"Silver Chomp","like a Chain Chomp but smaller and silver",25
+4035,"Falling Debris","various falling items to hurt Mario",15
+4036,"Cannon/Cannonball","black structure shooting cannonballs to explode Mario",23
+4037,"Rotating Platform","platforms that are rotating to mess up Mario's movement",39
+4038,"Moving Walls","walls moving in and out and around exposing different places for Mario to stand on",42
+4039,"Giant Rolling Platform","huge circular roller with a face and various ways to crush Mario ",6
+4040,"Darkened Platforms","platforms that periodically go pitch black so Mario doesn't know where he's walking",36
+4041,"Lava Shooter","red cannon shooting fire balls",24
+4042,"Faster Beep Block","beep block but 2x faster",7
+4043,"Tall Tower","really tall platform",44
+4046,"Hammer","giant black hammer smashing different walls and platforms to squish Mario",5
+4047,"Fast Rotating Platform","rotating platform but 2x faster",38

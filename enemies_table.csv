@@ -1,0 +1,120 @@
+"eid","is_boss","name","description","health","attack","attack_damage","weakness","other_features","e_rank"
+3000,"N","Small Goomba","small mushroom minion","1","Charges at Mario",1,"","",80
+3001,"N","Goomba","brown mushroom minion","2","Charges at Mario",1,"","1 hit to spin them, 1 hit to boot them or stomp on them",78
+3002,"N","Octoomba","blue octopus-like minion","1","Shoots Rocks at Mario",1,"","",64
+3003,"N","Paragoomba","Flying Goomba","2","Floats up and down, left and right in Mario's way",1,"","1 hit to get rid of their wings, 1 hit to boot them after or stomp on them",79
+3004,"Y","Peewee Piranha","smaller form of Dino Piranha with the egg on its butt","4","Running quickly into Mario",1,"Groundpound the Egg","gets angry and runs faster after Mario destroys the egg once, time limit to defeat it the second time",0
+3005,"N","Piranha Plant","plant with a piranha head","1","Reaches out and bites Mario",1,"","",69
+3006,"N","Magikoopa","koopa troopa with a hood and wand","1","Blasts enemies/magic at Mario",1,"","can create small goombas and Li'l Cinders to go after Mario",50
+3007,"N","Scaredy Bug","brown bug that is scared of Mario","2","Stings Mario",1,"","fly away from Mario normally but attack Mario while he has the Bee Powerup",81
+3008,"N","Smeech","flying Pink ball with huge lips","1","Smooches Mario",0,"Hop off Yoshi and it will fly away from you","Goes toward Mario and Yoshi usually until it smooches, can only be shaken off by spinning it",88
+3009,"N","Spangler","Spider on a vertical string","2","Swings toward Mario",1,"","1 hit to spin them, 1 hit to boot them or stomp on them",68
+3010,"N","Spiny","Koopa with a spiky red top","??","Charges at Mario",1,"Easily eaten with Yoshi","thrown by Lakitus",28
+3011,"N","Lakitu","Turtle on a Cloud","2","Throws Spinies at Mario",1,"vulnerable without his cloud","Move pretty sporatically but can easily be taken down with Yoshi",30
+3012,"Y","Giga Lakitu","giant Lakitu throwing multiple Spinies at once ","3","Throwing spinies, electricity",1,"throws Spinies at the same spot initially and moves lightning in the same line","moves a lot faster after the 2nd hit",0
+3013,"N","Chain Chomp","giant rolling black ball with teeth","??","Rolls into Mario",1,"two Chain Chomps can destroy each other","sometimes roll out of Chain Chomp stations",11
+3014,"N","Digga","little yellow spin drill on the ground","1","Digs into Mario",1,"always travel in the same direction","",58
+3015,"N","Twirlip","white tulip with eyes that spins around","1","Twirls into Mario",1,"Easily stomped on whether spinning or not","spin around in circles",59
+3016,"Y","Digga-Leg","Giant Digga with legs and a cage with the star under it","3","Hops around the planet 2 or 3 times in different directions, sends out Diggas directly across from it",1,"Pauses after throwing Diggas and bouncing around a few times, only 1 hit point to defeat it the 2nd time","",0
+3017,"N","Swaphopper","robotic bug with eyes and a spike on top and soft belly","1","Spikes mario, hops into Mario",1,"its soft underbelly is easily stomped on","spike and soft belly can swap being on top",56
+3018,"N","Spiny Piranha Plant","giant, purple, and spiky Piranha Plant","1","Reaches out and bites Mario",1,"very slow bites to expose their head easily","",41
+3019,"N","Thwomp","giant, tall and grey block with a mean face moving up and down","??","Squishes Mario",3,"","can only avoid it",4
+3020,"N","Flaptack","giant, pill shaped bird with a spike on its head","1","targets Mario with its spike",1,"its soft underbelly is easily stomped on","floats around high above Mario then targets him when he gets close",62
+3021,"N","Elite Octoomba","green form of Octoomba","1","Shoots 2 Rocks at Mario",2,"","shoots one rock then can shoot another one in another direction",45
+3022,"N","Cosmic Clone","dark red clones of Mario","??","Runs into Mario",1,"","copies Mario's every move",18
+3023,"N","Astro Goomba","Goomba with a metal head","2","Charges at Mario",1,"","1 hit to spin them, 1 hit to boot them",70
+3024,"N","Dry Bones","Bone form of Koopa Troopa","??","Charges at Mario",1,"Invincibility destroys them instantly","spinning or bouncing on them knocks them down but they can get back up",34
+3025,"Y","Gobblegut","Giant moving dragon with 6 bellyache bulges","6","Goes into the ground where Mario stands",1,"moves slower and goes after Mario less before you destroy 3 of its bellyache bulges","time limit to defeat it the 2nd time",0
+3026,"N","Wiggler","yellow caterpillar","2","Charges at Mario",1,"groundpound its back","gets red and angry when Mario hops on its back",65
+3027,"N","Blue Men","little blue ball with eyes that hops around","1","Latches onto Mario",1,"","",82
+3028,"N","Mandibug","flat, purple bug with eyes and a huge ground pound symbol on the back","1","Charges at Mario",1,"groundpound its back ","when Mario stands on them for awhile he gets knocked off",60
+3029,"Y","Mandibug Stack","Stack of a normal mandibug and a baby mandibug","2","Charges at Mario",1,"","Moves faster after the first ground pound",0
+3030,"N","Bowling Pins","10 bowling pins with eyes in the normal formation","1","None",0,"","Hides when Mario gets too close",92
+3031,"N","Octoguy","pink octopus+goomba like creature","1","Shoots Rocks at Mario",1,"","backs up when Mario gets too close",63
+3032,"Y","Rollodillo","Giant armadillo monster","4","Rolls to crush Mario and turns around quickly",1,"Rolls in one direction so you can easily sidestep its attacks","After rolling and turning around once or twice it gets dizzy for about 5 seconds",0
+3033,"N","Choppa","floating green butterfly monster with a spike on its head","1","Floats in Mario's way, spikes Mario",1,"Easily eaten with Yoshi","floats back and forth or up in down slowly",52
+3034,"N","Fuzzy","floating black spiked ball with crazy eyes","??","Spikes mario  ",1,"Spin Drill Powerup","travels in a defined path or with other fuzzies in a line",21
+3035,"N","Koopa Troopa","small turtle minion","2","Runs into Mario",1,"hides in its shell and becomes useless","can throw the shell when it hides",76
+3036,"N","Snoodle","tall noodle monster with eyes floating underwater","1","reaches its head out towards Mario",1,"shine the light from a shell in its eyes","usually floats in groups of other Snoodles",74
+3037,"N","Cheep Cheep","fish minion with a face and can be different colors","1","Runs into Mario",1,"","swims around in predictable patterns",84
+3038,"N","Porcupuffer","spiky fish that rushes at Mario for half a second","??","Charges at Mario",1,"","",24
+3039,"N","Skeeter","purple frog enemey with long legs","1","Swims at Mario",1,"","sees Mario then rushes straight at him really fast in the water",61
+3040,"N","Blue Jellyfish","giant blue jellyflish floating in the water","??","Electrocutes Mario",1,"very slow and easy to avoid","",67
+3041,"N","Li'l Brrr","floating blue crystal with eyes","2","Freezes Mario",1,"","stops for a half second when it sees Mario then moves toward him",57
+3042,"N","Eel","Giant brown eel that come out of holes","1","Electrocutes Mario",1,"Throw a shell","comes out of its hole and goes back in at regular intervals",36
+3043,"N","Jellyfish","small pinkish jellyfish that glows","1","Electrocutes Mario",1,"doesn't move much","",73
+3044,"N","Fizzlit","purple square with little legs and a face","1","Electrocutes Mario",1,"pauses after returning to its original form","becomes pure electricity in a bigger and bigger electric circle periodically",47
+3045,"N","Micro Mecha-Bowser","small electric turtle-like robot that breathes fire","2","Breathes fire at Mario",1,"pauses before breathing fire and can easily be ground pounded","head flips upside down when Mario spins it",38
+3046,"N","Mini Wanwan","smaller form of Chain Chomp","??","Rolls into Mario",1,"two of them can destroy each other ","sometimes roll out of mini wanwan stations",15
+3047,"N","Bonzai Bill","Bigger form of Bullet Bill","??","Targets and Explodes Mario",1,"","come out of Bonzai Bill Blasters usually",10
+3048,"N","Amp","giant floating ball of electricity with a face","??","Electrocutes Mario",1,"","float in place or move along defined paths in Mario's way",19
+3049,"N","Spiky Piranha Plant","large black and red piranha plant with spikes on its head","1","Reaches out and bites Mario",1,"","",40
+3050,"N","Flomp","small square platform with a face","??","Flips quickly over to kick Mario off it",0,"","pauses for a couple seconds between periodic flips",39
+3051,"N","Hammer Bro","more powerful Koopa Troopa that throws Hammers","2","Throws Hammers at Mario",1,"","hops into a different position after throwing 3 hammers at Mario",29
+3052,"N","Whomp","giant and flat grey block with an angry face","1","Flattens Mario with its face",3,"Ground pound symbol on its back","waddles over when it sees Mario then flattens after a couple seconds",22
+3053,"N","Mattermouth","skeleton head that eats away the floor","??","Charges at Mario",1,"","eats away the floor constantly in predictable paths",23
+3054,"N","Li'l Cinder","floating red crystal with eyes","2","Burns Mario",1,"","stops for a half second when it sees Mario then moves toward him",57
+3055,"Y","Bowser","The King of the Koopas","4","Punches the planet Mario is on, sends meteors to the planet, moving column of fire",1,"","breathes the column of fire after 2 hits with the meteors",0
+3056,"N","Spoing","brown jumping spider monster","1","Jumps on Mario",1,"only hops in one place","",85
+3057,"Y","Sorbetti","Giant snowball monster with snow spikes","3","Rolls to crush Mario  ",1,"its red nose","Rolls much faster after the 2nd hit",0
+3058,"N","Octoboo","Boo form of Octoomba","??","Charges at Mario",1,"","spinning makes them invisible for half a second, they move in lines with other Octoboos usually",26
+3059,"N","Jack O' Goomba","Goomba with a pumpkin face","3","Charges at Mario, burns Mario",1,"","spinning it removes the pumpkin and it becomes a regular Goomba, leaves white fire under it periodically",49
+3060,"N","Boo","Ghost Monster","??","Charges at Mario when his back is turned",1,"Hates the light","when Mario faces it it stops moving and disappears",37
+3061,"N","Atomic Boo","Huge form of Boo","??","Charges at Mario ",1,"","is usually followed by smaller Boos",14
+3062,"N","Bob-omb","bomb enemy with a face","??","Runs after Mario to explode ",1,"","Spinning it defuses it then you can throw it, constantly runs after Mario until it explodes after 10 seconds or so",48
+3063,"N","Silver Chomp","smaller, silver form of Chain Chomp","??","Rolls into Mario",1,"","Targets Mario and rolls after him constantly",13
+3064,"N","Bullet Bill","grey rocket with eyes","??","Targets Mario and explodes him",1,"Easily eaten with Yoshi ","can explode cages, enemies, and can be launched anywhere when eaten by Yoshi",27
+3065,"Y","Megahammer","Giant Hammer Robot being controlled by Bowser Jr","8","Shooting bullet and Bonzai Bills, crushing the platform Mario is on using Hammers, sends out electromagnetic pulses",3,"","Has 2 Glass circles on the front and one on the back then Bowser Jr is under a giant glass circle on its head",0
+3066,"N","Big Goomba","Huge form of Goomba","2","Charges at Mario",1,"","1 hit to spin them, 1 hit to boot them or stomp on them",77
+3067,"N","Big Piranha Plant","Huge form of Piranha Plant","??","Bites Mario",1,"","usually comes in and out of huge pipes",9
+3068,"N","Big Thwomp","Huge form of Thwomp","??","Squishes Mario",3,"","is harder to avoid than normal Thwomps",3
+3069,"N","Big Koopa Troopa","Huge form of Koopa Troopa","??","Charges at Mario",1,"Spin Drill instantly destroys it","walks pretty slowly in a line",31
+3070,"N","Big Paragoomba","Huge form of Paragoomba","2","Floats up and down, left and right in Mario's way",1,"","1 hit to get rid of their wings, 1 hit to boot them after, fly very slowly",77
+3071,"N","Big Wiggler","Huge form of Wiggler","??","Charges at Mario",1,"","can only avoid it, it sometimes red and moving quickly",8
+3072,"N","Pupdozer","orange and yellow turtle like monster with purple spikes on its head","1","Charges at Mario, Spikes Mario",1,"ground pound symbol on its belly","moves back and forth pretty slowly",51
+3073,"Y","Glamdozer","The Queen of the Pupdozers","4","Charges at Mario, Shoots huge lava balls at Mario",1,"Huge Ground Pound Symbol under its belly to know where to ground pound it","Shoots more lava balls after the 3rd ground pound and turns red",0
+3074,"N","Crabber","red crab enemy","2","Charges at Mario",1,"its white butt","spinning it from the front stops it for a couple seconds",54
+3075,"N","Blooper","blue octopus enemy with eyes","1","floats towards Mario",1,"","",72
+3076,"N","Tongari","snail enemy with a spiky white shell","??","Charges at Mario, Spikes Mario",1,"moves very slowly","moves around on walls underwater or above water",66
+3077,"N","Petapeta","light blue bag with feet and eyes","2","None",0,"can see its footsteps","goes invisible when Mario gets too close, releases up to 20 star bits when Mario spins it",89
+3078,"N","Clampy","purple clam enemy with eyes","??","Chomps at Mario",1,"","closes and opens its mouth periodically, can have items in its mouth",86
+3079,"N","Sea Urchin","blue and red urchin with eyes ","??","Charges at Mario, Spikes Mario",1,"weak to shells and fire balls","stops for a second before rolling at Mario when it sees Mario",33
+3080,"N","Golden Chain Chomp","Golden form of Chain Chomp","??","Rolls into Mario",1,"","has a Power Star in it",12
+3081,"Y","Bowser II","The King of the Koopas II","4","Punches the planet Mario is on and sends EMP, sends meteors to the planet that send EMPs, moving column of fire that lingers",1,"","same as Bowser but with EMPs and less time to hit Bowser",0
+3082,"N","Mini Topman","tiny yellow top enemy","1","Spins Mario to push him back",0,"","spinning it destroys it",83
+3083,"N","Topman","red spin top enemy with a spike on its head","1","Spins Mario to push him back, spikes Mario",1,"Electricity","spinning it only pushes it back",46
+3084,"N","Sentry Beam","purple circuluar machine with eyes","??","Sends out EMPs at Mario",1,"there's a spring in its head that stops the EMPs periodically","",20
+3085,"N","Spring Topman","green spin top enemy with a spring in its head","??","Spins Mario to push him back",0,"","hopping on its head releases a spring that sends Mario spinning super high",87
+3086,"N","Ring Beam","yellow circular machine with spikes on top","??","Sends out EMPs at Mario, Spikes Mario",2,"","",5
+3087,"N","Ota Rock","Giant Octoomba alien that spits out Coconuts and Fire Balls","1","Shoots out Fire Balls",1,"Coconuts","",42
+3088,"Y","Prince Pikante","Giant Octoomba Prince on a Bike?","4","Shoots fire balls and coconuts in the air, charges at Mario, shoots fire balls and coconuts directly at Mario",2,"","skids across the ice very quickly periodically",0
+3089,"N","Pokey Head","short green ball enemy with a happy face and a flower on its head","1","Hops at Mario",1,"","hops toward Mario slowly, sprouts out of the ground when Mario gets close",71
+3090,"N","Cluck Boom","floating chicken enemy with a glowing butt","2","Drops bombs on Mario",1,"","spinning it in the air stops the bombs and dazes it",35
+3091,"N","Rhomp","giant, grey, spinning cylinder with a face","??","Rolls at Mario to crush him",3,"","",2
+3092,"Y","Squizzard","Giant Sand Monster","3","Throws sand balls and spike balls and bombs at Mario",1,"","Sprouts cannons after the 2nd hit then throws bombs, opens mouth periodically ",0
+3093,"N","Magmaargh","giant lava monster with a big mouth","??","Burns Mario",1,"","comes out of the lava to bite at Mario then goes back down into it",7
+3094,"N","Swooper","black bat enemy","1","Swoops at Mario",1,"","",53
+3095,"N","Green Crabber","green crab enemy","2","Sidesteps Mario",1,"its white butt","spinning it from the front stops it for a couple seconds, moves faster and more frantically than crabbers",55
+3096,"N","Boomerang Bro","more powerful Koopa Troopa that throws boomerangs","2","Throws Boomerangs at Mario",1,"","hops into a different position after throwing 2 or 3 boomerangs at Mario",29
+3097,"Y","Boomsday Machine","giant moving tower with rotating fire bars","3","Shoots electric balls at Mario, charges at Mario, electrifies and sucks all clouds into itself",2,"","gets taller and moves around after the 2nd hit",0
+3098,"N","Magmaw","same as Magmaargh but a different shape and smaller","??","Burns Mario",1,"","comes out of the lava to charge at Mario and continues moving forward",6
+3099,"N","Pattan","smaller form of Whomp that moves faster","??","Falls on Mario with its face",1,"","goes to attack Mario then immediately disintegrates",75
+3100,"Y","Whomp King","King of the Whomps and Thwomps","4","Flattens Mario, summons Pattans to go after Mario",3,"has ground pound symbol on its back","after it tries to flatten Mario it stays on the ground for a few seconds, can stomp the ground to immobilize Mario for 3 seconds",0
+3101,"N","Fire Urchin","red, firey form of Sea Urchine","??","Charges at Mario, Spikes Mario",1,"weak to fireballs","stops for a second before rolling at Mario when it sees Mario",32
+3102,"N","Undergrunt","brown mole enemy that has a blue spiked hat","2","Digs into the ground then charges and spikes Mario",1,"ground pounding near it stuns it","",44
+3103,"Y","Bowser III","The King of the Koopas III","8","Punches the planet Mario is on and sends a special EMP, sends meteors to the planet that send EMPs, moving column of fire that lingers, charges at Mario",1,"","same as Bowser II but more meteors, different EMPs, less time to hit Bowser, 2nd section involves just hitting Bowser with meteors while he tries to charget at Mario",0
+3104,"N","Mobile Sentry Beam","grey sentry beam ","??","creates a line of electricity that moves towards Mario and shocks him",1,"","stops shooting electricity when Mario stands on its head",17
+3105,"N","Tox Box","hollow, grey box enemy with eyes","??","Flattens Mario",3,"","All its sides flatten Mario except for one, slams its faces/sides in a predictable form",1
+3106,"Y","Bugaboom","giant Mandibug monster that can fly","3","shoots Bombs at Mario",1,"Giant ground pound symbol on its back","turns red and flies around faster and at weird angles after the 2nd ground pound",0
+3108,"Y","Dino Piranha","giant mutant of a piranha plant and dinosaur","4","Charges at Mario",1,"its tail","moves faster after the 2nd hit",0
+3109,"Y","King Kaliente","giant octopus monster in lava","3","Shoots Fireballs and coconuts, summons lava bubbles",1,"Coconuts","Summons the lava bubbles after the 2nd hit",0
+3110,"N","Lava Bubble","small blue balls of fire","??","Bounces at and burns Mario",1,"","disappears after a short time",16
+3111,"Y","Major Burrows","giant mole boss with a blue spiky helmet","4","Digs into the ground then charges and spikes Mario",1,"","gets angry and digs faster after the 2nd hit",0
+3112,"N","Bomb Boo","black Boo with a long red tongue","??","Charges and Explodes Mario",1,"its red tongue can be grabbed","can explode enemies or walls",43
+3113,"Y","Bouldergeist","giant rock poultergeist monster","6","Throws rocks and Bomb Boos at Mario, punches Mario",1,"Bomb Boos","sprouts giant hands after the 3rd hit",0
+3114,"Y","Fiery Dino Piranha","fiery form of Dino Piranha","4","Charges at Mario, Throws Fire Balls at Mario",1,"its tail","starts spewing fire balls at Mario after the 3rd hit, tail engulfs in flames every couple seconds",0
+3115,"N","Gummit","green, bowling pin like enemy","1","None",0,"","usually found in Monkey challenge levels on ice",91
+3116,"N","Spiky Gummit","purple, spiky form of Gummit","??","Spikes Mario to knock him backwards",0,"","usually found in Monkey challenge levels on ice",90
+3117,"Y","Fiery Gobblegut","Fiery form of Gobblegut with 6 more bellyache bulges","6","Goes into the ground where Mario stands, burns Mario, sends Meteors to the planet",2,"moves slower and goes after Mario less before you destroy 3 of its bellyache bulges","starts sending lava meteors everywhere after hitting 3 bulges, Mario can be burned by touching it anywhere on the body",0
+3118,"N","Targeting Bullet Bill","red and beeping form of bullet bill","??","Targets and Explodes Mario",1,"","only found in the final level",25
+3121,"N","Octopus","huge octopus enemy similar to Ota Rocks","1","Shoots out Fire Balls",1,"Coconuts","",42
