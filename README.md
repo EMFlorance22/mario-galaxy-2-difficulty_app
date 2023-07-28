@@ -18,4 +18,4 @@ EDA visualized important factors that correlate with difficulty such as enemy, t
 
 Overall this was a successful data lifecycle project using PL/SQL, Python, Amazon Glue, Amazon Redshift, and PowerBI to explore a seemingly complex dataset
 
-Manual Data Collection --> EDA using SQL and Python --> Data storage using PL/SQL, S3, and MySQL --> ETL/Data Engineering with PySpark and Glue --> Data Warehouse storing of processed data with Redshift --> Analysis/ML and prediction with Python --> Report/Dashboard building with PowerBI
+Manual Data Collection --> Data storage using PL/SQL, S3, and MySQL --> EDA using SQL and Python --> ETL/Data Engineering with PySpark and Glue --> Data Warehouse storing of processed data with Redshift --> Analysis/ML and prediction with Python --> Report/Dashboard building with PowerBI
